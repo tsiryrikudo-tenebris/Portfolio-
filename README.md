@@ -1,8 +1,8 @@
-# Portfolio-
-Gestion de co-voiturage
+# Portfolio
+
 # Bonjour, je suis Tsiry RANDRIAMAROMANANA 
 Étudiant en informatique  
- Intéressé par la gestion de base de données et le développement logiciel  
+ Intéressé par la gestion de base de données et le développement logiciel 
 
 ---
 
@@ -26,7 +26,7 @@ Fonctionnalités :
 - C++
 - Qt Creator
 - MySQL
-- HTML / CSS (débutant)
+- HTML / CSS 
 - Git / GitHub (débutant)
 
 ---
